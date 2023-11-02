@@ -1,0 +1,870 @@
+@media (max-width: 1920px) {
+}
+
+@media (max-width: 1680px) {
+  .container {
+    max-width: 1450px;
+  }
+
+  html {
+    font-size: 53%;
+  }
+
+  /* Piya(01.11.23) */
+
+  .ghad_body {
+    min-height: 22rem;
+  }
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 46rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1440px) {
+  .container {
+    max-width: 1340px;
+  }
+
+  html {
+    font-size: 47%;
+  }
+
+  /* Piya(01.11.23) */
+
+  .watch_info {
+    padding: 0 5rem;
+  }
+
+  .cus_nav_innr {
+    padding: 0 5rem;
+  }
+
+  .cmn_btn {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+
+  .btm_menu {
+    margin-left: 35rem;
+  }
+
+  .ghad_body {
+    min-height: 24rem;
+  }
+
+  .purpose_item p {
+    padding-top: 8px;
+  }
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 48rem;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .logo_slider {
+    width: 85%;
+    margin: auto;
+  }
+  .logo_slider_btn {
+    left: -8rem;
+    right: -8rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1366px) {
+  .container {
+    max-width: 1240px;
+  }
+
+  /* Piya(01.11.23) */
+
+  .btm_menu {
+    margin-left: 20rem;
+  }
+
+  .video_wrapper_full {
+    height: 55rem;
+  }
+
+  .ghad_body p {
+    font-size: 15px;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 45rem;
+  }
+  .logo_slider {
+    width: 90%;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1280px) {
+  .container {
+    max-width: 1140px;
+  }
+
+  html {
+    font-size: 42%;
+  }
+
+  /* Piya (01.11.23) */
+
+  .watch_txt p {
+    width: auto;
+  }
+
+  .ghad_body {
+    padding: 2rem;
+  }
+
+  .purpose_item p {
+    font-size: 14px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1199px) {
+  .container {
+    max-width: 100%;
+  }
+
+  /* Piya (01.11.23) */
+
+  .cus_nav_innr {
+    padding: 0 10rem;
+  }
+
+  .top-menu {
+    padding: 10px 30px;
+  }
+
+  .top-details li a {
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .purpose_info {
+    padding: 0 4rem;
+  }
+
+  .btm_menu {
+    margin-left: 0;
+  }
+
+  .cmn_btn {
+    padding: 8px 15px;
+    font-size: 15px;
+  }
+
+  .video_wrapper_full {
+    height: 50rem;
+  }
+
+  .purpose_img {
+    width: 10.5rem;
+  }
+
+  .purpose_item {
+    width: 24.4rem;
+    height: 24.5rem;
+  }
+
+  .purpose_item p {
+    font-size: 13px;
+  }
+
+  .bnr_content p {
+    font-size: 2.5rem;
+  }
+
+  .bnr_content h1 {
+    font-size: 7rem;
+  }
+
+  .cmn_hdr h2 {
+    font-size: 4rem;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_item1,
+  .youtube_vdo_item2 {
+    width: 46%;
+  }
+  .youtube_vdo_info .videoPoster:before {
+    border-radius: 15px;
+  }
+  .project_info {
+    padding-inline: 20px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1080px) {
+  /* Piya(01.11.23) */
+
+  .video_wrapper_full {
+    height: 46rem;
+  }
+
+  .purpose_info {
+    padding: 0;
+    flex-direction: column-reverse;
+  }
+
+  .purpose_txt p {
+    text-align: center;
+    width: auto;
+  }
+  .purpose_txt h2 {
+    text-align: center;
+  }
+  .purpose_txt h2 br {
+    display: none;
+  }
+
+  .purpose_txt {
+    width: 70%;
+  }
+
+  .purpose_content {
+    gap: 0;
+    row-gap: 4rem;
+  }
+
+  .ghat_txt p {
+    width: 95%;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .logo_slider_btn {
+    left: -6rem;
+    right: -6rem;
+  }
+  .copy_wrt {
+    padding-inline: 15px;
+  }
+  .youtube_vdo_info .video_wrapper_full {
+    height: 41rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 1024px) {
+  /* Ayon Paul (01.11.23) */
+
+  .logo_slider_img {
+    width: 50%;
+  }
+  .youtube_vdo_info .video_wrapper_full {
+    height: 38rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 991px) {
+  /* Piya(01.11.23) */
+
+  .bnr_content h1 {
+    font-size: 6rem;
+  }
+
+  .cus_nav_innr {
+    padding: 0 6rem;
+  }
+
+  .bnr_pic {
+    padding: 0 3rem;
+  }
+
+  .btm_content p {
+    display: none;
+  }
+
+  .btm_menu {
+    margin-left: auto;
+    margin-right: 3rem;
+  }
+
+  .banner_sec {
+    margin-top: -8rem;
+  }
+
+  .cus_nav_outr {
+    margin-top: -7rem;
+  }
+
+  .watch_sec {
+    margin: 0 3rem;
+  }
+
+  .ghad_otr {
+    padding: 0 3rem;
+  }
+
+  .logo_area {
+    width: 25rem;
+  }
+
+  .video_wrapper_full {
+    height: 40rem;
+  }
+
+  .ghad_body p {
+    font-size: 14px;
+  }
+
+  .ghad_con_txt p {
+    width: 95%;
+  }
+
+  .purpose_content {
+    width: 65%;
+  }
+
+  .purpose_content {
+    row-gap: 2rem;
+  }
+
+  .cus_nav_outr {
+    padding: 18px 0px;
+  }
+
+  .purpose_sec {
+    margin: 0 3rem;
+  }
+
+  .ghad_con_sec {
+    padding-bottom: 2rem;
+  }
+
+  .cmn_pdding {
+    padding: 4rem 0;
+  }
+
+  .ghat_txt p {
+    font-size: 2rem;
+  }
+
+  .ghat_txt {
+    padding: 3rem;
+  }
+
+  .project_sec {
+    margin: 0 3rem;
+  }
+
+  .logo_sec {
+    margin: 4rem 3rem;
+  }
+
+  .ftr_sec {
+    margin: 0 3rem 4rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 900px) {
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_info {
+    flex-direction: column;
+  }
+  .youtube_vdo_item1,
+  .youtube_vdo_item2 {
+    width: 60%;
+    margin: auto;
+  }
+  .youtube_vdo_info .video_wrapper_full {
+    height: 44rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 840px) {
+  /* Piya(01.11.23) */
+
+  .logo_area {
+    width: 22rem;
+  }
+
+  .ghat_txt p {
+    width: auto;
+  }
+
+  .watch_info {
+    padding: 0 3rem;
+  }
+
+  .ghad_body {
+    min-height: 26rem;
+  }
+
+  .purpose_content {
+    width: 75%;
+  }
+  .bnr_content h1 {
+    font-size: 5.5rem;
+  }
+
+  .video_wrapper_full {
+    height: 35rem;
+  }
+
+  .ghad_body p {
+    font-size: 13px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 768px) {
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_item1,
+  .youtube_vdo_item2 {
+    width: 70%;
+  }
+  .logo_slider {
+    width: 83%;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 767px) {
+  /* Piya(01.11.23) */
+
+  .watch_txt {
+    width: auto;
+  }
+
+  .watch_info {
+    flex-direction: column;
+  }
+
+  .watch_txt h2 {
+    text-align: center;
+  }
+  .watch_txt p {
+    text-align: center;
+  }
+
+  .video_wrapper_full {
+    height: 70rem;
+  }
+
+  .watch_vdo {
+    width: 95%;
+  }
+
+  .ghad_con_info {
+    flex-direction: column;
+    align-items: center;
+    gap: 10rem;
+  }
+
+  .ghad_box {
+    width: 85%;
+  }
+
+  .ghad_body {
+    min-height: 0;
+  }
+
+  .banner_sec {
+    margin-top: 0;
+  }
+
+  .cus_nav_outr {
+    margin-top: -4rem;
+    padding: 0;
+  }
+
+  .logo_area {
+    height: 17.1rem;
+  }
+
+  .btm_menu,
+  .hdr-btn {
+    margin-top: 5rem;
+  }
+
+  .bnr_content h1 {
+    font-size: 5rem;
+  }
+
+  .bnr_content p {
+    font-size: 2.2rem;
+  }
+
+  .video_wrapper_full {
+    height: 60rem;
+  }
+
+  .cmn_hdr h2 {
+    font-size: 3.5rem;
+  }
+
+  .ghad_con_info {
+    gap: 6rem;
+  }
+
+  .banner_sec {
+    padding: 0 3rem;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .project_info {
+    flex-direction: column;
+  }
+  .project_img {
+    width: 70%;
+    margin: auto;
+  }
+  .logo_slider {
+    width: 70%;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 667px) {
+  /* Piya(01.11.23) */
+
+  .purpose_content {
+    width: 70%;
+  }
+
+  .video_wrapper_full {
+    height: 50rem;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_item1,
+  .youtube_vdo_item2 {
+    width: 82%;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 600px) {
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_item1,
+  .youtube_vdo_item2 {
+    width: 90%;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 575px) {
+  /* Piya(01.11.23) */
+
+  .purpose_txt {
+    width: auto;
+  }
+
+  .purpose_item {
+    width: 40rem;
+    height: 40rem;
+  }
+
+  .purpose_img {
+    width: 100%;
+  }
+
+  .purpose_content {
+    row-gap: 40px;
+  }
+
+  .purpose_info {
+    gap: 20px;
+  }
+
+  .video_wrapper_full {
+    height: 275px;
+  }
+
+  .cus_nav_innr {
+    padding: 0 2rem;
+  }
+
+  .btm_menu {
+    margin-right: 2rem;
+  }
+
+  .top-menu {
+    padding: 10px 15px;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_item1,
+  .youtube_vdo_item2 {
+    width: 95%;
+  }
+  .project_img {
+    width: 95%;
+  }
+  .ftr_menu ul {
+    flex-direction: column;
+  }
+  .copy_wrt {
+    flex-direction: column-reverse;
+    row-gap: 20px;
+  }
+  .ftr_logo {
+    margin: auto auto 1rem;
+    width: 200px;
+    height: auto;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 480px) {
+  /* Piya(01.11.23) */
+
+  .video_wrapper_full {
+    height: 180px;
+  }
+
+  .cmn_hdr h2 {
+    font-size: 3rem;
+  }
+
+  .bnr_content h1 {
+    font-size: 4.5rem;
+  }
+
+  .watch_info {
+    gap: 3rem;
+  }
+
+  .bnr_content h1 {
+    font-size: 4rem;
+  }
+
+  .videoPoster .button-outer-circle {
+    height: 12rem;
+    width: 12rem;
+  }
+
+  .cmn_btn {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+
+  .btm_menu {
+    gap: 8px;
+  }
+
+  .logo_area {
+    width: 14rem;
+    height: 13rem;
+  }
+
+  .btm_menu,
+  .hdr-btn {
+    margin-top: 2rem;
+  }
+
+  .cus_nav_innr {
+    padding: 8px 12px 0;
+  }
+
+  .btm_content span .fa-envelope,
+  .btm_content span .fa-phone {
+    font-size: 2rem;
+  }
+
+  .btm_content span {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  .btm_menu,
+  .hdr-btn {
+    margin-top: 10px;
+  }
+
+  .banner_sec {
+    margin-top: -8px;
+}
+
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 36rem;
+  }
+  .project_img {
+    width: 100%;
+  }
+  .logo_slider_img {
+    width: 70%;
+  }
+  .ftr_logo {
+    width: 180px;
+  }
+
+  .top-details {
+    gap: 10px;
+  }
+
+  .top-details li a {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  .btm_menu {
+    gap: 5px;
+  }
+
+  .bnr_otr {
+    height: 45rem !important;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 430px) {
+  /* Piya(01.11.23) */
+
+  .purpose_item {
+    width: 35rem;
+    height: 35rem;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 32rem;
+  }
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 28rem;
+}
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 390px) {
+  /* Piya(01.11.23) */
+
+  .videoPoster:before {
+    height: 7rem;
+    width: 7rem;
+}
+
+  .videoPoster:after {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .cmn_btn {
+    padding: 7px;
+    font-size: 11px;
+  }
+
+  .purpose_item {
+    width: 20rem;
+    height: 20rem;
+}
+
+.purpose_img {
+  width: 70%;
+}
+
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 30rem;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 375px) {
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_item1,
+  .youtube_vdo_item2 {
+    width: 99%;
+  }
+  .logo_slider_img {
+    width: fit-content;
+  }
+  .logo_sec {
+    margin: 4rem 2rem;
+  }
+  .ftr_sec {
+    margin: 0 2rem 4rem;
+  }
+  .ftr_logo {
+    width: 170px;
+  }
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 22rem;
+}
+
+.youtube_vdo_info .videoPoster:before {
+  width: 7rem;
+  height: 5rem;
+  border-radius: 12px;
+}
+
+.videoPoster:after {
+  width: 2rem;
+  height: 2rem;
+}
+
+.logo_slider {
+  width: 60%;
+}
+
+
+}
+
+/*** ==================<<<<<>>>>>================== ***/
+
+@media (max-width: 360px) {
+  /* Piya(01.11.23) */
+
+  .video_wrapper_full {
+    height: 150px;
+  }
+
+  /* Ayon Paul (01.11.23) */
+
+  .youtube_vdo_info .video_wrapper_full {
+    height: 28rem;
+  }
+  .ftr_logo {
+    width: 165px;
+  }
+}
+
+/*** ==================<<<<<>>>>>================== ***/
